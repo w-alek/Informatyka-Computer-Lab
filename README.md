@@ -1,5 +1,7 @@
 # Informatyka-Computer-Lab
 
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/w-alek/Informatyka-Computer-Lab/master)
+
 Notebooks for "Introduction to Algorithms" lab at JU, 2021. 
 
 ## Content
