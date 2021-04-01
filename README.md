@@ -7,6 +7,7 @@ Notebooks for "Introduction to Algorithms" lab at JU, 2021.
 ## Content
 
 * L1 and L2 introduce basic python programming concepts
+* L3 introduce basic of recursion and searching
 
 ## Sources
 
