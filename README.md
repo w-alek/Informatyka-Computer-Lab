@@ -7,9 +7,13 @@ Notebooks for "Introduction to Algorithms" lab at JU, 2021.
 ## Content
 
 * L1 and L2 introduce basic python programming concepts
-* L3 introduce basic of recursion and searching algorithms
-* L4 introduce basic of sorting algorithms and iteration vs recursion concepts
+* L3 Introduce basic of recursion and searching algorithms
+* L4 Introduce basic of sorting algorithms and iteration vs recursion concepts
+* L5 Binary Search
 * L6 Recursion algorithms
+* L7 Dictonaries and improving complexity
+* L8 Merge Sort and introduction to problem solving
+* L9 Problem Solving
 
 ## Sources
 
