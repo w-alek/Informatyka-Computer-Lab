@@ -14,6 +14,7 @@ Notebooks for "Introduction to Algorithms" lab at JU, 2021.
 * L7 Dictonaries and improving complexity
 * L8 Merge Sort and introduction to problem solving
 * L9 Problem Solving
+* L10 Sorting algorithms - overview
 
 ## Sources
 
